@@ -221,6 +221,7 @@ audio {
     text-transform: uppercase;
     letter-spacing: 0.2em;
     color: rgb(208, 124, 141);
+    text-align: center;
 }
 
 .info_text p {
